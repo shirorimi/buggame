@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"test","classId":1,"equips":[1,1,2,1,0],"faceIndex":0,"faceName":"rimia","traits":[],"initialLevel":1,"maxLevel":99,"name":"リミア","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":0,"characterName":"seno_mini","classId":2,"equips":[2,1,2,2,0],"faceIndex":0,"faceName":"seno","traits":[],"initialLevel":1,"maxLevel":99,"name":"セノーテ","nickname":"","note":"","profile":""}
+]
